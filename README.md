@@ -1,6 +1,6 @@
 # Lingva Translate
 
-<img src="public/logo.svg" width="128" align="right">
+<img src="public/logo.svg" width="128" align="right">   
 
 [![Travis Build](https://travis-ci.com/thedaviddelta/lingva-translate.svg?branch=main)](https://travis-ci.com/thedaviddelta/lingva-translate)
 [![Vercel Status](https://img.shields.io/github/deployments/thedaviddelta/lingva-translate/Production?label=vercel&logo=vercel&color=f5f5f5)](https://lingva.ml/)
